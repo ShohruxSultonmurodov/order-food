@@ -1,0 +1,336 @@
+{
+    "kebab":[
+        {
+            "id":"k1",
+            "title":"Qo'zi go'shtidan kabob 300 gr",
+            "description":"Qo'zi filetosi, ziravorlar",
+            "price":42000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538720913_Uowoo8fA.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k2",
+            "title":"Qo'zi go'shtidan tayyorlangan barbekyu 300 gr",
+            "description":"Qo'zi go'shti, ziravorlar",
+            "price":40000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538720977_T7AAQMt6.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k3",
+            "title":"Yupqa yog'dagi lula kabobi 200 gr",
+            "description":"Mol go'shti, ziravorlar.",
+            "price":26000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538721568_23eOpyCg.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k4",
+            "title":"Mol go'shti filesidan kabob 300 gr",
+            "description":"Mol go'shti, ziravorlar",
+            "price":49000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538721821_CKAhmp2x.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k5",
+            "title":"Cho'chqa go'shtidan kabob 300 gr",
+            "description":"Mazali va suvli bo'lakli cho'chqa go'shti kabobi",
+            "price":35000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538722110_604gLd4q.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k6",
+            "title":"O'rdak kabobi 300 gr",
+            "description":"O'rdak filesi, ziravorlar",
+            "price":30000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538721986_yMI2gsWO.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k7",
+            "title":"Cho'chqa qovurg'alari barbekyu 300 gr",
+            "description":"Cho'chqa qovurg'alari, ziravorlar",
+            "price":33000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538722233_w2nvHTRZ.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k8",
+            "title":"Yupqa yog'da jigar shashligi 200gr",
+            "description":"Maxsus marinadda jigar, ziravorlar",
+            "price":23000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538721731_McGIc0SE.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"k9",
+            "title":"Qo'zi qovurg'asidan kabob 300 gr",
+            "description":"Qo'zi qovurg'alari, ziravorlar",
+            "price":37000,
+            "imgUrl":"https://dostavkin.uz/uploads/logo/1538721135_CuRRmp7Z.jpg",
+            "quantity": 0
+        }
+    ],
+    "pizza":[
+        {
+            "id":"p1",
+            "title":"Gurme",
+            "description":"Pizza sousi, zaytun, pepperoni, qo'ziqorin, oregan",
+            "price": 50000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd020eb98-5c57-43d6-ba90-969907dc8186.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p2",
+            "title":"Super Mix",
+            "description":"Pizza 'Super Mix' 1 ta pitsada 4 ta sevimli lazzat kombinatsiyasi 😋 Bir vaqtning o'zida hamma narsani yaxshi ko'radiganlar uchun juda mos keladi 🙃",
+            "price": 80000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F94844930-5c66-4c12-a670-93b048169dbe.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p3",
+            "title":"Chicken curry",
+            "description":"Mol go'shti va tovuq filesi mozzarella pishloq, ananas va kori sousi bilan birlashtirilgan",
+            "price": 50000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F45bd4064-2430-4250-899d-d6f834d36c30.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p4",
+            "title":"Cheese Chicken",
+            "description":"Yumshoq tovuq filesi, mozzarella pishloq, pomidor va pishloq sousi",
+            "price": 45000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F17126e05-7876-45a6-be19-e6d0af0328a4.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p5",
+            "title":"Double pepperoni",
+            "description":"Mozzarella pishloq va pomidor sousi bilan qo'sh pepperoni",
+            "price": 54000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F23138748-1bff-4994-b42b-cf7044ed4e0d.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p6",
+            "title":"Chicken Rancho",
+            "description":"Yumshoq tovuq filesi, mozzarella pishloq, pomidor va Ranch sousi",
+            "price": 45000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F0a6ad3e4-3cac-40d4-a278-13416f28b5fe.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p7",
+            "title":"Jalapeno",
+            "description":"Turkiya filesi, mayin mol go'shti, piyoz, pomidor, achchiq jalapenos, Mozzarella pishloq va barbekyu sousi",
+            "price": 50000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F84e3a554-551a-45f6-9ac1-9c7870aa6f14.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p8",
+            "title":"Pepperoni",
+            "description":"Pepperoni, mozzarella pishloq va pomidor sousi",
+            "price": 45000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F601282db-7274-43e4-ac74-e8987d53dd6e.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"p9",
+            "title":"Mexican",
+            "description":"Mol go'shti rulosi, yumshoq tovuq filesi, achchiq jalapeno qalampiri, mozzarella pishloqi, barbekyu sousi",
+            "price": 50000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F07b2af79-95e0-48ae-8962-3b29fdfcb6d4.jpg&w=384&q=75",
+            "quantity": 0
+        }
+    ],
+    "national":[
+        {
+            "id":"n1",
+            "title":"Choyxona palov",
+            "description":"Choyxona palov eng mazali oshlardan biri bo'lib, aynan shu palobni ko'pchilik o'z uyida tayyorlaydi",
+            "price":32000,
+            "imgUrl":"https://tezkor.uz/api/uploads/a1a848d9-fa4b-4389-a253-f3aa9086b205.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"n2",
+            "title":"Ko'k somsa",
+            "description":"Navro'z bayramini o'zimizning ko'k somsalarimiz tasavvur etib bo'lmaydi. Bugungi somsalarning xamirini tayyorlash esa ko'pchilik uchun yangilik bo'lsa ajab emas!",
+            "price":4000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/03/kuk-samsa-1.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"n3",
+            "title":"Norin",
+            "description":"Norin o'zbek milliy taomlari orasida eng mazali va sevimlilaridan biri bo'lib, ko'pchilik uni tayyorlash juda murakkab deb o'ylaydi. Lekin aslida unday emas.",
+            "price":36000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/07/norin-1.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"n4",
+            "title":"Uyda tayyorlaniladigan qatlamali somsa",
+            "description":"Uyda tayyorlanilgan qatlamali somsalardan mazalisi bo'lmasa kerak.",
+            "price":6000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/10/photo_2018-10-03_17-05-51.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"n5",
+            "title":"Xamir xasip",
+            "description":"Xamir xasip juda to'yimli va mazali milliy taomlarimizdan biri bo'lib, u o'zining ajoyib ko'rinishi bilan har bir dasturxonga ko'rk beradi.",
+            "price":28000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2019/03/xamir-hosip.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"n6",
+            "title":"Qovurdoq",
+            "description":"Qovurdoq bu oddiy masalliqlardan tayyorlaniladigan juda mazali taom bo'lib, oson pishiriladi.",
+            "price":18000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/10/kavardak1-2.jpg",
+            "quantity": 0
+        }
+    ],
+    "desert":[
+        {
+            "id":"d1",
+            "title":"«Itoniyacha taribsizlik» deserti",
+            "description":"Bunday g'aroyib nomi u Itoniya kollejinng kelib chiqishiga atab qo'yilgan.",
+            "price": 28000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2019/05/klubnichniy-desert-10.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"d2",
+            "title":"«Banoffi» torti",
+            "description":"«Banoffi» deb, banan va tuzli karamel qorishmasidan tashkil topgan tortga aytiladi.",
+            "price": 82000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/04/banoffi2.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"d3",
+            "title":"Banoffi – banan va karamelli pirog",
+            "description":"Banoffi – bu inglizcha, pishirishni talab qilmaydigan juda mazali pirog. Karamel va bananlarning betakror uyg'unligi, ustidagi ko'pirtirilgan qaymoqli kremi bilan yuragingizdan joy olishi aniq.",
+            "price": 70000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/01/banoffi-2.jpeg",
+            "quantity": 0
+        },
+        {
+            "id":"d4",
+            "title":"«Krokembush» torti",
+            "description":"Profitrollardan tayyorlangan ajoyib va betakror fransuzcha tort. Odatda to'y marosimlarida pishiriladigan bu tortni oxirgi paytlarda yangi yil bayramida ham tayyorlash urfga aylanmoqda.",
+            "price": 92000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2017/12/krokembush.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"d5",
+            "title":"Panna Kotta",
+            "description":"Hech kimni befarq qoldirmaydigan ajoyib shirinlik!",
+            "price": 24000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2017/07/panna-cotta-1300x975.jpg",
+            "quantity": 0
+        },
+        {
+            "id":"d6",
+            "title":"Shokoladli semifredo muzqaymog'i",
+            "description":"Semifredo – italyancha mazali desert bo'lib, yozning jazirama kunlarini bayramga aylantirishi hech gap emas.",
+            "price": 34000,
+            "imgUrl":"https://zira.uz/wp-content/uploads/2018/07/semifredo-1.jpeg",
+            "quantity": 0
+        }
+    ],
+    "drink":[
+        {
+            "id":"dr1",
+            "title":"Kola 0.5L",
+            "price": 6000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fb3c127ef-0a3b-45a9-a8ee-7a5610d2a05e.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr2",
+            "title":"Kola 1L",
+            "price": 9000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fb3c127ef-0a3b-45a9-a8ee-7a5610d2a05e.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr3",
+            "title":"Kola 1.5L",
+            "price": 12000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fb3c127ef-0a3b-45a9-a8ee-7a5610d2a05e.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr4",
+            "title":"Fanta 0.5L",
+            "price": 6000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F68becb55-af08-4690-b56c-4b148a81210f.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr5",
+            "title":"Fanta 1L",
+            "price": 9000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F68becb55-af08-4690-b56c-4b148a81210f.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr6",
+            "title":"Fanta 1.5L",
+            "price": 12000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F68becb55-af08-4690-b56c-4b148a81210f.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr7",
+            "title":"Sprayt 0.5L",
+            "price": 6000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd4cf1df6-32a9-45f6-a677-e88b77f7adce.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr8",
+            "title":"Sprayt 1L",
+            "price": 9000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd4cf1df6-32a9-45f6-a677-e88b77f7adce.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr9",
+            "title":"Sprayt 1.5L",
+            "price": 12000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd4cf1df6-32a9-45f6-a677-e88b77f7adce.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr10",
+            "title":"Olmali sharbat",
+            "price": 13000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F33af0ba6-871e-48ef-813e-647802f1fc04.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr11",
+            "title":"Apelsinli sharbat",
+            "price": 13000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fa6104c7f-7c0c-477c-98f3-d79403c81ee3.jpg&w=384&q=75",
+            "quantity": 0
+        },
+        {
+            "id":"dr12",
+            "title":"Ananasli sharbat",
+            "price": 13000,
+            "imgUrl":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F2a7bba04-88cc-4753-b787-a16d88b7ad34.jpg&w=384&q=75",
+            "quantity": 0
+        }
+    ]
+}
